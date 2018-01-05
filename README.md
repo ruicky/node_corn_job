@@ -2,15 +2,22 @@
 
     使用bootstrap3作为前端页面，sqllite3为本地数据库。
 
+![demo.png](./doc/demo.png)
+
 
 # 快速开始
 
 + `git clone https://github.com/ruicky/node_corn_job.git`    
 + `cd node_corn && npm install`
-+ `touch db`
++ `npm start`
 
+# 层级结构说明
 
-## 数据表
+```shell
+
+```
+
+# 数据表
 
 ### 定时任务表(cornJobs)
 
